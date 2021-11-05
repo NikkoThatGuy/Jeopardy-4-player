@@ -1,5 +1,8 @@
 .mainsite {
-    height: 880px;
-    width: 480px;
+    height: 100vh;
+    width: 100%;
     background-color: blueviolet;
+}
+* {
+    margin: 0;
 }
