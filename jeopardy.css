@@ -1,8 +1,5 @@
 .mainsite {
-    height: 1080px;
+    height: 880px;
     width: 480px;
-    color: blueviolet;
-}
-body {
-    color: blueviolet;
+    background-color: blueviolet;
 }
